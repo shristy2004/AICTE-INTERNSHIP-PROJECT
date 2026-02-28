@@ -55,20 +55,7 @@ This project marks the starting point of my frontend development journey and ref
 
 ---
 
-## ⚡ Challenges Faced
-
-- Managing layout alignment issues
-- Handling theme state properly
-- Understanding event listeners
-- Fixing small but impactful UI bugs
-
-Each challenge helped me improve my logical thinking and problem-solving ability.
-
----
-
-
----
-
+ 
 ## 🚀 Future Improvements
 
 - Add backend integration for contact form
@@ -87,20 +74,4 @@ I look forward to building more scalable and impactful web applications.
 
 ---
 
-## 🚀 Future Improvements
-
-- Add backend integration for contact form
-- Improve UI animations
-- Deploy using CI/CD workflow
-- Convert into a modern framework-based version (React)
-
----
-
-## 💡 Final Reflection
-
-This project may be simple, but it represents the most important step — starting.
-
-It reflects my willingness to learn, experiment, and grow as a developer.  
-I look forward to building more scalable and impactful web applications.
-
- Built with dedication as my first frontend project.
+ 
